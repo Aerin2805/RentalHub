@@ -82,8 +82,8 @@
 
 ## 🚀 Future Scope
 
-- Smart Property Insights:
-- Extended Forecasting:
-- Helpful Chat Assistance:
-- Personalized User Experience:
-- Wider Location Coverage:
+- Smart Property Insights
+- Extended Forecasting
+- Helpful Chat Assistance
+- Personalized User Experience
+- Wider Location Coverage
