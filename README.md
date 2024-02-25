@@ -25,7 +25,7 @@
 ## 🔷Links 
 <ul>
 <li><a href="https://drive.google.com/file/d/1IBUv8cwqtWFInbOjXlfY3jM3Vs8bGtGl/view" target="_blank">Project Video Showcase</a></li>
-<li><a href="https://drive.google.com/file/d/14u6oKItR6kIRcD-rEP60173WZOgCfRE4/view?usp=drivesdk">Local Environment Setup Guide</a></li>
+<li><a href="https://drive.google.com/file/d/14u6oKItR6kIRcD-rEP60173WZOgCfRE4/view?usp=drivesdk" target="_blank">Local Environment Setup Guide</a></li>
 </ul>
 
 
