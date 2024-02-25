@@ -22,13 +22,18 @@
 </ol>
 
 
-## Drive link
-```
-[##]
-```
+## links :
+<ul>
+<li><a href="https://drive.google.com/file/d/1IBUv8cwqtWFInbOjXlfY3jM3Vs8bGtGl/view">Project Video Link</a></li>
+<li><a href="https://drive.google.com/file/d/1IBUv8cwqtWFInbOjXlfY3jM3Vs8bGtGl/view">Project Video Link</a></li>
+</ul>
+
 
 ### Photos
-![image](##)
+<br>
+<p align="center">
+  <img src="w1.png" width="800" height="400"/>
+  </p>
 
 
 ## 💎Problems Solved
@@ -44,19 +49,21 @@
 5. **Secure and Flexible:** With a secure login and signup system, RentalHub prioritizes user safety. Additionally, sellers have the flexibility to edit or delete property listings, ensuring accurate and up-to-date information.
 
 
-### Photos
-![a5be5efd-c53a-4fc2-8957-c4f054ead4dc](##)
 
 ## 🔷Feature of this Website
-```
 1. Effortless Property Search
 2. Transparent Communication
 3. User-Friendly Listing Management
 4. Admin Panel for Management
 5. Secure and Up-to-Date Information
-```
+
+
+
 ### 🔷Photos
-![##)
+<br>
+<p align="center">
+  <img src="w2.png" width="800" height="400"/>
+  </p>
 
 
 ### 🛠Tech we used:
@@ -68,17 +75,15 @@
 3. Python
 
 4. HTML
+
+5. Sqlite3
 ```
 
 
 ### 🚀 Future Scope:
 
-- **Smart Property Insights:**
-  
-- **Extended Forecasting:**
-
-- **Helpful Chat Assistance:**
-
-- **Personalized User Experience:**
-
-- **Wider Location Coverage:**
+- Smart Property Insights:
+- Extended Forecasting:
+- Helpful Chat Assistance:
+- Personalized User Experience:
+- Wider Location Coverage:
