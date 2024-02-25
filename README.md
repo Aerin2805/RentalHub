@@ -2,12 +2,12 @@
 ## Theme: Open Innovation
 
 <p align="center">
-  <img src="readme.gif" width="400"/>
+  <img src="readme.gif" width="300"  height="300"/>
   </p>
   
 
 
-### 🏆 Contributors
+## 🏆 Contributors
 
 <ol>
     <li><strong>Backend:</strong> Aerin Patel</li>
@@ -22,19 +22,19 @@
 </ol>
 
 
-## links :
+## 🔷Links 
 <ul>
-<li><a href="https://drive.google.com/file/d/1IBUv8cwqtWFInbOjXlfY3jM3Vs8bGtGl/view">Project Video Link</a></li>
-<li><a href="https://drive.google.com/file/d/1IBUv8cwqtWFInbOjXlfY3jM3Vs8bGtGl/view">Project Video Link</a></li>
+<li><a href="https://drive.google.com/file/d/1IBUv8cwqtWFInbOjXlfY3jM3Vs8bGtGl/view" target="_blank">Project Video Showcase</a></li>
+<li><a href="https://drive.google.com/file/d/14u6oKItR6kIRcD-rEP60173WZOgCfRE4/view?usp=drivesdk">Local Environment Setup Guide</a></li>
 </ul>
 
 
-### Photos
+## 🔷Photos
 <br>
 <p align="center">
   <img src="w1.png" width="800" height="400"/>
   </p>
-
+<br>
 
 ## 💎Problems Solved
 
@@ -59,14 +59,14 @@
 
 
 
-### 🔷Photos
+## 🔷Photos
 <br>
 <p align="center">
   <img src="w2.png" width="800" height="400"/>
   </p>
 
 
-### 🛠Tech we used:
+## 🛠 Technologies Used
 ```
 1. Django
 
@@ -80,7 +80,7 @@
 ```
 
 
-### 🚀 Future Scope:
+## 🚀 Future Scope
 
 - Smart Property Insights:
 - Extended Forecasting:
