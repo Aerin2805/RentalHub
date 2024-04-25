@@ -15,8 +15,7 @@
     <strong>Frontend:</strong>
     <ul>
       <li>Kalpan Bariya</li>
-      <li>Suhani Parmar</li>
-      <li>Heet Goyani</li>
+      <li>Aerin Patel</li>
     </ul>
   </li>
 </ol>
