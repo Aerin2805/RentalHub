@@ -9,6 +9,8 @@ https://docs.djangoproject.com/en/5.0/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.0/ref/settings/
 """
+import dj_database_url
+import os
 
 from pathlib import Path
 
@@ -20,12 +22,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-6wk7f$nua3l2_&^4k%6ner5e2+-a&@3i9!7*6ao8=6uag1di$j'
-
+# SECRET_KEY = 'django-insecure-6wk7f$nua3l2_&^4k%6ner5e2+-a&@3i9!7*6ao8=6uag1di$j'
+SECRET_KEY = os.environ.get("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = os.environ.get("DEBUG" , "False").lower()=="true"
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = os.environ.get("ALLOWED_HOSTS").split(" ")
 
 LOGIN_REDIRECT_URL = '/'
 LOGOUT_REDIRECT_URL = '/'
@@ -87,7 +89,9 @@ DATABASES = {
     }
 }
 
-
+databse_url = os.environ.get("DATABASE_URL")
+DATABASES['default'] = dj_database_url.parse(databse_url)
+# "postgres://rentalhub_django_render_user:pN5HPscajUMm6J3HEdqMXYELJYaV5oRp@dpg-cpca794f7o1s738djjog-a.oregon-postgres.render.com/rentalhub_django_render"
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
 
